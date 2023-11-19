@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    top: 0;
+    position: fixed;
+    background-color: #817c7c;
+    padding: 20px;
+    width: 100%;
+    text-align: left;
+   
+}
+
+header h1 {
+    margin: 0;
+}
+
+#our-menu {
+    text-align: center;
+    padding: 80px; 
+    box-sizing: border-box;
+    background-color: white;
+    padding-bottom: 1%;
+}
+
+section {
+    text-align: center;
+    padding: 10px;
+    background-color: #e25c5c;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+section p {
+    text-align: justify;
+}
+
+footer {
+    background-color: #717971;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position:static;
+    bottom: 0;
+    width: 99%;
+    height: 5%;
+    margin-top: 2%;
+}
